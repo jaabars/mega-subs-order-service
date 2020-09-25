@@ -2,7 +2,6 @@ package kg.easy.megasubsorderservice.models;
 
 import kg.easy.megasubsorderservice.models.enums.OrderStatus;
 import lombok.Data;
-import org.omg.CORBA.PRIVATE_MEMBER;
 
 import javax.persistence.*;
 import java.util.Date;
